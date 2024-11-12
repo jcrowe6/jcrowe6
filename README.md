@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**I'm Jay**
+
 - 🚜 Software Engineer at John Deere
 - 📚 Master of CS+Data Science at the University of Illinois
 - 👨‍💻 Experienced in `Python`, `Databricks`, `SQL`, `React`, `Spring Boot`, and more!
