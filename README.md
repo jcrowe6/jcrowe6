@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🚜 Software Engineer at John Deere
+- 📚 Master of CS+Data Science at the University of Illinois
+- 👨‍💻 Experienced in `Python`, `Databricks`, `SQL`, `React`, `Spring Boot`, and more!
+- 📫 [jcrowell.net](https://jcrowell.net)
+- 🟦 [LinkedIn](https://www.linkedin.com/in/jeremiah-crowell/)
+
 <!--
 **jcrowe6/jcrowe6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
