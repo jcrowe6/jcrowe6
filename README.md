@@ -4,7 +4,7 @@
 
 - 🚜 Software Engineer at John Deere
 - 📚 Master of CS+Data Science at the University of Illinois
-- 👨‍💻 Experienced in `Python`, `Databricks`, `SQL`, `React`, `Spring Boot`, and more!
+- 👨‍💻 Experienced in `Typescript`, `Python`, and so much more!
 - 📫 [jcrowell.net](https://jcrowell.net)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/jeremiah-crowell/)
 
